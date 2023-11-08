@@ -40,7 +40,7 @@ h2, .g-price {
   max-height: 770px;
   overflow: scroll;
   border-radius: 25px;
-  background: white;
+  background: #1a1814;
   padding-top: 30px;
   padding-left: 30px;
   margin: 20px;
@@ -79,7 +79,7 @@ ul {
 .menu-item .add-button {
   position: absolute;
   border: none;
-  background: #6B00F5;
+  background: #cda45e;
   padding: 6px 20px 4px;
   border-radius: 20px;
   color: white;
@@ -90,7 +90,7 @@ ul {
   transition: all 0.3s;
 }
 .menu-item .add-button:hover {
-  background: #5815AE;
+  background: #cda45e;
 }
 
 .menu-item-dets {
